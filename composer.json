@@ -1,0 +1,8 @@
+{
+    "name": "phpdoc/attributes",
+    "description": "PHP Documentation Attributes",
+    "type": "library",
+    "license": [
+        "MIT"
+    ]
+}
